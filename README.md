@@ -1,5 +1,4 @@
 - 👋 Hi 
-- 👀 I’m interested in interesting things🫤
 - 🌱 I’m currently learning unlearnt things😑
   
 
