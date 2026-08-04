@@ -1,226 +1,207 @@
-<h1 align="center">Hi 👋, I'm Preetham D'Souza</h1>
+<h1 align="center">
+Hi 👋 I'm Preetham D'Souza
+</h1>
 
 <h3 align="center">
-AI Engineer • Building Intelligent Systems with LLMs, RAG & Computer Vision
+🧠 AI Engineer in Progress • LLMs • RAG • Computer Vision • Data Analytics
 </h3>
 
 <p align="center">
-Turning ideas into intelligent products, one commit at a time.
+Building intelligent systems that solve real-world problems.
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=preethu13&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://img.shields.io/github/followers/preethu13?label=Followers&style=flat&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/preethu13?affiliations=OWNER&style=flat&color=yellow"/>
+
 </p>
 
 ---
 
-<div align="center">
+# 💫 About Me
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=preethu13&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+```python
+class Preetham():
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethu13&layout=compact&theme=tokyonight"/>
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.location = "India 🇮🇳"
 
-</div>
+        self.interests = [
+            "Large Language Models",
+            "Retrieval-Augmented Generation",
+            "Agentic AI",
+            "Computer Vision",
+            "Data Analytics",
+            "AI System Design"
+        ]
 
----
+        self.currently_learning = [
+            "Advanced RAG",
+            "AI Agents",
+            "LLM Evaluation",
+            "MLOps"
+        ]
 
-<img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-## 🚀 About Me
-
-🧠 AI Engineering enthusiast focused on building production-ready AI systems.
-
-🤖 Passionate about **Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), and AI Automation.**
-
-📷 Building Computer Vision applications using **OpenCV, ONNX Runtime, FAISS, FastAPI, and React.**
-
-📊 Experienced in transforming data into meaningful insights with **Python, SQL, Power BI, and Machine Learning.**
-
-⚙️ Love designing scalable backend architectures with **FastAPI, Docker, MongoDB, Redis, and REST APIs.**
-
-🌱 Currently exploring
-
-- Multi-Agent AI Systems
-- AI Infrastructure
-- Model Deployment
-- AI System Design
-- MLOps
-
-💬 Ask me about
-
-- LLM Applications
-- RAG
-- AI Engineering
-- Computer Vision
-- Data Analytics
-- FastAPI
-- Python
+        self.motto = "Build. Learn. Improve. Repeat."
+```
 
 ---
 
-## 🛠 AI & Engineering Stack
+# 🚀 Tech Stack
 
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-
-</div>
-
----
-
-## 🤖 AI / ML Toolbox
+## 👨‍💻 Programming
 
 <p>
 
-🧠 LangChain • LangGraph • Hugging Face
-
-📚 RAG Pipelines • Vector Databases • FAISS
-
-🤖 LLM Applications • Prompt Engineering
-
-👁️ OpenCV • ONNX Runtime • Computer Vision
-
-📈 Scikit-Learn • Pandas • NumPy
-
-📊 Power BI • SQL • Data Analytics
-
-⚡ FastAPI • REST APIs • Docker
-
-☁️ GitHub Actions • AI Deployment
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,firebase,supabase,docker,git,linux,fastapi"/>
 
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🤖 AI • Machine Learning • Data Science
 
-🚨 **Intelligent Missing Person Detection System**
+<p>
 
-> AI-powered real-time facial recognition system using
-> FastAPI • React • MongoDB • FAISS • ONNX Runtime • Docker
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
 
-🤖 **AI-Driven Insurance Knowledge Assessment System**
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
 
-> Agentic RAG platform leveraging LLMs, LangChain, FastAPI and Retrieval-Augmented Generation.
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
----
+<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
 
-📊 **YouTube Analytics Dashboard**
+<img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge"/>
 
-> Data Analytics project using Python, Power BI, Pandas & YouTube Data API.
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
 
----
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
-## 📈 Current Focus
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-✔ AI Engineering
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-✔ Agentic AI
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
-✔ Retrieval-Augmented Generation
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-✔ Backend Development
-
-✔ Scalable AI Systems
-
-✔ Data Analytics
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 📌 Featured Projects
 
-<div align="left">
+### 🚨 Intelligent Missing Person Detection System
 
-<a href="https://www.linkedin.com/in/contactpreethamdsouza/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+> Real-time facial recognition platform using **FastAPI, MongoDB, FAISS, ONNX Runtime, Docker** and modern Computer Vision.
+
+---
+
+### 🤖 AI-Driven Insurance Knowledge Assessment System
+
+> Agentic RAG platform leveraging **LLMs, LangChain, FastAPI, Vector Search, Retrieval-Augmented Generation**.
+
+---
+
+### 📊 YouTube Analytics Dashboard
+
+> Data Analytics dashboard built using **Python, Pandas, SQL, Power BI** and YouTube Data API.
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=preethu13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethu13&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=preethu13&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=preethu13&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🎯 Currently Building
+
+🧠 AI-powered applications
+
+🤖 Agentic AI Systems
+
+📚 Retrieval-Augmented Generation (RAG)
+
+👁️ Computer Vision Solutions
+
+⚡ FastAPI Backends
+
+📊 Data Analytics Dashboards
+
+---
+
+# 🌍 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/contactpreethamdsouza/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/preethu13">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-## 💭 Quote
+# 💭 Favorite Quote
 
-> *"I don't just build AI models—I build intelligent systems that solve real-world problems."*
-
----
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=preethu13&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
+> **"The best way to predict the future is to build it."**
 
 ---
 
-<div align="center">
+<p align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=preethu13&theme=tokyo-night)
+## 👾 Pacman Contribution Graph
 
-</div>
+<img src="https://raw.githubusercontent.com/preethu13/preethu13/output/pacman-contribution-graph-dark.svg">
 
----
-
-<div align="center">
-
-![](https://streak-stats.demolab.com?user=preethu13&theme=tokyonight)
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-![](https://komarev.com/ghpvc/?username=preethu13&label=Profile+Views&color=0e75b6&style=flat)
+⭐ Thanks for visiting my profile!
 
-</div>
+*Always open to collaborating on AI, LLM, RAG, Computer Vision and Data Analytics projects.*
+
+</p>
