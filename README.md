@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 Building AI-powered applications
+
+📚 Exploring LLMs and Agentic AI
+
+🧠 AI & Machine Learning
+
+📈 Data Analytics & Visualization
+
+📷 Computer Vision
+
+🎯 I believe consistency beats motivation.
+
+📖 Every project is a chance to learn something new.
