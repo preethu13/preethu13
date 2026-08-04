@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋 I'm Preetham D'Souza
+Hi 👋 I'm Preetham Jostan D Souza
 </h1>
 
 <h3 align="center">
@@ -8,6 +8,7 @@ Hi 👋 I'm Preetham D'Souza
 
 <p align="center">
 Building intelligent systems that solve real-world problems.
+<img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 </p>
 
 <p align="center">
@@ -49,7 +50,6 @@ class Preetham():
 
         self.motto = "Build. Learn. Improve. Repeat."
 ```
-<img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ---
 
@@ -128,16 +128,6 @@ class Preetham():
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=preethu13&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
 # 🎯 Currently Building
 
 🧠 AI-powered applications
@@ -164,10 +154,6 @@ class Preetham():
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/preethu13">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
