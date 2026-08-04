@@ -21,7 +21,6 @@ Building intelligent systems that solve real-world problems.
 
 </p>
 
----
 
 # 💫 About Me
 
