@@ -1,7 +1,9 @@
 <h1 align="center">
 Hi 👋 I'm Preetham Jostan D Souza
+<p align="center">
+    
 <img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
+</p>
 
 </h1>
 
