@@ -1,5 +1,8 @@
 <h1 align="center">
 Hi 👋 I'm Preetham Jostan D Souza
+<img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+
 </h1>
 
 <h3 align="center">
@@ -8,7 +11,6 @@ Hi 👋 I'm Preetham Jostan D Souza
 
 <p align="center">
 Building intelligent systems that solve real-world problems.
-<img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 </p>
 
 <p align="center">
