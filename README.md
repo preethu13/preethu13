@@ -19,6 +19,7 @@ Building intelligent systems that solve real-world problems.
 <img src="https://img.shields.io/github/stars/preethu13?affiliations=OWNER&style=flat&color=yellow"/>
 
 </p>
+<img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ---
 
@@ -116,15 +117,6 @@ class Preetham():
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=preethu13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethu13&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -192,8 +184,8 @@ class Preetham():
 
 ## 👾 Pacman Contribution Graph
 
-<img src="https://raw.githubusercontent.com/preethu13/preethu13/output/pacman-contribution-graph-dark.svg">
-
+[<img src="https://raw.githubusercontent.com/preethu13/preethu13/output/pacman-contribution-graph-dark.svg">
+](https://raw.githubusercontent.com/preethu13/preethu13/output/pacman-contribution-graph-dark.svg)
 </p>
 
 ---
