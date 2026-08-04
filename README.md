@@ -32,7 +32,7 @@ Turning ideas into intelligent products, one commit at a time.
 
 📊 Experienced in transforming data into meaningful insights with **Python, SQL, Power BI, and Machine Learning.**
 
-⚙️ Love designing scalable backend architectures with **FastAPI, Node.js, Docker, MongoDB, Redis, and REST APIs.**
+⚙️ Love designing scalable backend architectures with **FastAPI, Docker, MongoDB, Redis, and REST APIs.**
 
 🌱 Currently exploring
 
@@ -50,7 +50,6 @@ Turning ideas into intelligent products, one commit at a time.
 - Computer Vision
 - Data Analytics
 - FastAPI
-- React
 - Python
 
 ---
