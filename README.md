@@ -19,7 +19,6 @@ Building intelligent systems that solve real-world problems.
 <img src="https://img.shields.io/github/stars/preethu13?affiliations=OWNER&style=flat&color=yellow"/>
 
 </p>
-<img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ---
 
@@ -50,6 +49,7 @@ class Preetham():
 
         self.motto = "Build. Learn. Improve. Repeat."
 ```
+<img align="right" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ---
 
@@ -180,14 +180,13 @@ class Preetham():
 
 ---
 
-<p align="center">
+
 
 ## 👾 Pacman Contribution Graph
 
-[<img src="https://raw.githubusercontent.com/preethu13/preethu13/output/pacman-contribution-graph-dark.svg">
-](https://raw.githubusercontent.com/preethu13/preethu13/output/pacman-contribution-graph-dark.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/preethu13/preethu13/output/pacman-contribution-graph-dark.svg">
 </p>
-
 ---
 
 <p align="center">
