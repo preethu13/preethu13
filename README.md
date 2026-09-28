@@ -32,7 +32,7 @@ Building intelligent systems that solve real-world problems.
 class Preetham():
 
     def __init__(self):
-        self.role = "AI Engineer"
+        self.role = "AI Engineer"/"Data Analyst"
         self.location = "India 🇮🇳"
 
         self.interests = [
